@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4f87f20-813e-4bb8-9053-af56193c6682" name="Changes" comment="" />
+    <list default="true" id="f4f87f20-813e-4bb8-9053-af56193c6682" name="Changes" comment="New class has been added">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/638a3f9537d7092095494d0c2b59cd93b0330e64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af27796f7c3e78b5511ecb74bfba24156bd625d2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af27796f7c3e78b5511ecb74bfba24156bd625d2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd88a31c8ea8dd23f0532a56c4803d68862fcd8f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd88a31c8ea8dd23f0532a56c4803d68862fcd8f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1599796e8e2d2ef92058158581be7b4ef3ec64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1599796e8e2d2ef92058158581be7b4ef3ec64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/638a3f9537d7092095494d0c2b59cd93b0330e64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +50,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "D:/Programowanie/Java/Playwright-framework",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AllBrowserTest">
+  <component name="RunManager" selected="JUnit.ScreenshotTest.screenshotTest">
     <configuration name="AllBrowserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PlayWriteFramework" />
       <extension name="coverage">
@@ -77,8 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScreenshotTest.screenshotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PlayWriteFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ScreenshotTest" />
+      <option name="METHOD_NAME" value="screenshotTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ScreenshotTest.screenshotTest" />
         <item itemvalue="JUnit.AllBrowserTest" />
         <item itemvalue="JUnit.FirstClass.firstTest" />
       </list>
@@ -93,6 +121,14 @@
       <option name="presentableId" value="Default" />
       <updated>1710977331435</updated>
     </task>
+    <task id="LOCAL-00001" summary="New class has been added">
+      <created>1713558283722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713558283722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New class has been added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New class has been added" />
   </component>
 </project>
