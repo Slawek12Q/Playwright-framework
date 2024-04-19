@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f87f20-813e-4bb8-9053-af56193c6682" name="Changes" comment="New class has been added">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/638a3f9537d7092095494d0c2b59cd93b0330e64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af27796f7c3e78b5511ecb74bfba24156bd625d2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af27796f7c3e78b5511ecb74bfba24156bd625d2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd88a31c8ea8dd23f0532a56c4803d68862fcd8f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd88a31c8ea8dd23f0532a56c4803d68862fcd8f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1599796e8e2d2ef92058158581be7b4ef3ec64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1599796e8e2d2ef92058158581be7b4ef3ec64" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/638a3f9537d7092095494d0c2b59cd93b0330e64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
